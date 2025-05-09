@@ -36,8 +36,8 @@ I'm a backend-focused software developer passionate about solving real-world pro
 
 ## 🔥 GitHub Highlights
 
-- 🔧 [Task Manager API](https://github.com/taki-deen/) – Auth, JWT, CRUD, and RBAC  
-- 📚 [Book Management System](https://github.com/taki-deen) – RESTful API with Prisma + MySQL
+- 🔧 [Workers Manager API](https://github.com/taki-deen/Sapp) A smart home maintenance platform – Auth, JWT, CRUD, With Mongodb/Prisma  
+- 📚 [Book Management System](https://github.com/taki-deen) – RESTful API with Mongodb
 
 ---
 
