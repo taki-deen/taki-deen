@@ -11,7 +11,6 @@ I'm a backend-focused software developer passionate about solving real-world pro
 
 - 🔨 **Main Stack:** Node.js, Express.js, MongoDB, MySQL, Prisma, JWT  
 - 🚀 **Currently Building:** A Task & Book Management API  
-- 💡 **Learning:** testing (Jest, Postman)
 ---
 
 ## 🎯 2025 Goals
